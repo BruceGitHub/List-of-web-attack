@@ -7,6 +7,7 @@ list with resources of web attacks
 - Http smuggling 
 >* http://projects.webappsec.org/w/page/13246928/HTTP%20Request%20Smuggling
 >* https://www.cgisecurity.com/lib/HTTP-Request-Smuggling.pdf 
+>* https://portswigger.net/web-security/request-smuggling
 
 
 ## STEGANOGRAPHY TECHNIQUES
